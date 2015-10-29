@@ -6,7 +6,7 @@
 
 #ifndef BASE_PROCESS_H_INCLUDED
 #define BASE_PROCESS_H_INCLUDED
-#pragma once
+
 
 namespace base {
 

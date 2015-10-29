@@ -7,7 +7,7 @@
 
 #ifndef APP_UTIL_PIC_FILE_H_INCLUDED
 #define APP_UTIL_PIC_FILE_H_INCLUDED
-#pragma once
+
 
 namespace doc {
   class Image;

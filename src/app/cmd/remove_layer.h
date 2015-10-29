@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_REMOVE_LAYER_H_INCLUDED
 #define APP_CMD_REMOVE_LAYER_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd/add_layer.h"
 

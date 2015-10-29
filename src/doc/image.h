@@ -6,7 +6,7 @@
 
 #ifndef DOC_IMAGE_H_INCLUDED
 #define DOC_IMAGE_H_INCLUDED
-#pragma once
+
 
 #include "doc/color.h"
 #include "doc/image_buffer.h"

@@ -6,7 +6,7 @@
 
 #ifndef DOC_PALETTE_PICKS_H_INCLUDED
 #define DOC_PALETTE_PICKS_H_INCLUDED
-#pragma once
+
 
 #include <algorithm>
 #include <vector>

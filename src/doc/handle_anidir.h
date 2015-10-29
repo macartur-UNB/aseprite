@@ -6,7 +6,7 @@
 
 #ifndef DOC_HANDLE_ANIDIR_H_INCLUDED
 #define DOC_HANDLE_ANIDIR_H_INCLUDED
-#pragma once
+
 
 #include "doc/frame.h"
 

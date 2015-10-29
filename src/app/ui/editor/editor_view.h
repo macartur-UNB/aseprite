@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_EDITOR_VIEW_H_INCLUDED
 #define APP_UI_EDITOR_VIEW_H_INCLUDED
-#pragma once
+
 
 #include "base/connection.h"
 #include "ui/view.h"

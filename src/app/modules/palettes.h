@@ -7,7 +7,7 @@
 
 #ifndef APP_MODULES_PALETTES_H_INCLUDED
 #define APP_MODULES_PALETTES_H_INCLUDED
-#pragma once
+
 
 #include <string>
 

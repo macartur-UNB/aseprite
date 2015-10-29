@@ -6,7 +6,7 @@
 
 #ifndef UI_PROPERTY_H_INCLUDED
 #define UI_PROPERTY_H_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 #include "base/shared_ptr.h"

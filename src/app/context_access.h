@@ -7,7 +7,7 @@
 
 #ifndef APP_CONTEXT_ACCESS_H_INCLUDED
 #define APP_CONTEXT_ACCESS_H_INCLUDED
-#pragma once
+
 
 #include "app/document_access.h"
 #include "doc/site.h"

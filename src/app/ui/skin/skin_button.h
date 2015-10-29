@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_SKIN_SKIN_BUTTON_H_INCLUDED
 #define APP_UI_SKIN_SKIN_BUTTON_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/skin/skin_theme.h"
 #include "ui/button.h"

@@ -7,7 +7,7 @@
 
 #ifndef APP_CONSOLE_H_INCLUDED
 #define APP_CONSOLE_H_INCLUDED
-#pragma once
+
 
 #include <exception>
 

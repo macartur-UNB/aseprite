@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_SET_FRAME_TAG_COLOR_H_INCLUDED
 #define APP_CMD_SET_FRAME_TAG_COLOR_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd.h"
 #include "app/cmd/with_frame_tag.h"

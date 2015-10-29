@@ -6,7 +6,7 @@
 
 #ifndef UI_LABEL_H_INCLUDED
 #define UI_LABEL_H_INCLUDED
-#pragma once
+
 
 #include "gfx/color.h"
 #include "ui/widget.h"

@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_EDITOR_SCROLLING_STATE_H_INCLUDED
 #define APP_UI_EDITOR_SCROLLING_STATE_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/editor/editor_state.h"
 #include "gfx/point.h"

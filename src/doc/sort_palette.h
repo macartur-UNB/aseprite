@@ -6,7 +6,7 @@
 
 #ifndef DOC_SORT_PALETTE_H_INCLUDED
 #define DOC_SORT_PALETTE_H_INCLUDED
-#pragma once
+
 
 namespace doc {
 

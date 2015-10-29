@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_ADD_FRAME_H_INCLUDED
 #define APP_CMD_ADD_FRAME_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd.h"
 #include "app/cmd/add_cel.h"

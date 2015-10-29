@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_ANIMATED_WIDGET_H_INCLUDED
 #define APP_UI_ANIMATED_WIDGET_H_INCLUDED
-#pragma once
+
 
 #include "base/connection.h"
 #include "ui/timer.h"

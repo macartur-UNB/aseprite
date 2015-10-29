@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_WORKSPACE_PANEL_H_INCLUDED
 #define APP_UI_WORKSPACE_PANEL_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/animated_widget.h"
 #include "app/ui/workspace_views.h"

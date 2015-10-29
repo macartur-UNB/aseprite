@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_CONTEXT_H_INCLUDED
 #define APP_UI_CONTEXT_H_INCLUDED
-#pragma once
+
 
 #include "app/context.h"
 #include "doc/documents_observer.h"

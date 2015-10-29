@@ -6,7 +6,7 @@
 
 #ifndef DOC_BLEND_INTERNALS_H_INCLUDED
 #define DOC_BLEND_INTERNALS_H_INCLUDED
-#pragma once
+
 
 #include "../../third_party/pixman/pixman/pixman-combine32.h"
 

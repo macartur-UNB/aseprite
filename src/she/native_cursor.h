@@ -6,7 +6,7 @@
 
 #ifndef SHE_NATIVE_CURSOR_H_INCLUDED
 #define SHE_NATIVE_CURSOR_H_INCLUDED
-#pragma once
+
 
 #include "gfx/fwd.h"
 

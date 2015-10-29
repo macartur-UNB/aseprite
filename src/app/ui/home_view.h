@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_HOME_VIEW_H_INCLUDED
 #define APP_UI_HOME_VIEW_H_INCLUDED
-#pragma once
+
 
 #include "app/check_update_delegate.h"
 #include "app/ui/tabs.h"

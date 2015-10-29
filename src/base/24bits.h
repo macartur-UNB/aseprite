@@ -6,7 +6,7 @@
 
 #ifndef BASE_24BITS_H_INCLUDED
 #define BASE_24BITS_H_INCLUDED
-#pragma once
+
 
 #include "base/config.h"
 

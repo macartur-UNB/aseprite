@@ -7,7 +7,7 @@
 
 #ifndef APP_TOOLS_INK_H_INCLUDED
 #define APP_TOOLS_INK_H_INCLUDED
-#pragma once
+
 
 namespace gfx {
   class Region;

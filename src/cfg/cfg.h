@@ -6,7 +6,7 @@
 
 #ifndef CFG_CFG_H_INCLUDED
 #define CFG_CFG_H_INCLUDED
-#pragma once
+
 
 #include <string>
 

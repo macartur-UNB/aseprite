@@ -7,7 +7,7 @@
 
 #ifndef APP_SEND_CRASH_H_INCLUDED
 #define APP_SEND_CRASH_H_INCLUDED
-#pragma once
+
 
 #include "app/notification_delegate.h"
 

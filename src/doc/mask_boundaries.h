@@ -6,7 +6,7 @@
 
 #ifndef DOC_MASK_BOUNDARIES_H_INCLUDED
 #define DOC_MASK_BOUNDARIES_H_INCLUDED
-#pragma once
+
 
 #include "gfx/rect.h"
 

@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_DATA_RECOVERY_VIEW_H_INCLUDED
 #define APP_UI_DATA_RECOVERY_VIEW_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/tabs.h"
 #include "app/ui/workspace_view.h"

@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_EDITOR_NAVIGATE_STATE_H_INCLUDED
 #define APP_UI_EDITOR_NAVIGATE_STATE_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/editor/state_with_wheel_behavior.h"
 

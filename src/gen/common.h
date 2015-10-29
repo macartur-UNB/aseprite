@@ -6,7 +6,7 @@
 
 #ifndef GEN_COMMON_H_INCLUDED
 #define GEN_COMMON_H_INCLUDED
-#pragma once
+
 
 #include <cctype>
 #include <string>

@@ -6,7 +6,7 @@
 
 #ifndef UI_ENTRY_H_INCLUDED
 #define UI_ENTRY_H_INCLUDED
-#pragma once
+
 
 #include "base/signal.h"
 #include "ui/timer.h"

@@ -7,7 +7,7 @@
 
 #ifndef APP_RES_RESOURCES_LOADER_H_INCLUDED
 #define APP_RES_RESOURCES_LOADER_H_INCLUDED
-#pragma once
+
 
 #include "base/concurrent_queue.h"
 #include "base/thread.h"

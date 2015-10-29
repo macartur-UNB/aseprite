@@ -6,7 +6,7 @@
 
 #ifndef DOC_TEST_CONTEXT_H_INCLUDED
 #define DOC_TEST_CONTEXT_H_INCLUDED
-#pragma once
+
 
 #include "doc/context.h"
 #include "doc/document.h"

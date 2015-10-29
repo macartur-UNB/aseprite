@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_SEQUENCE_H_INCLUDED
 #define APP_CMD_SEQUENCE_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd.h"
 

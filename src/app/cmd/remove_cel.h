@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_REMOVE_CEL_H_INCLUDED
 #define APP_CMD_REMOVE_CEL_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd/add_cel.h"
 

@@ -6,7 +6,7 @@
 
 #ifndef DOC_ALGO_H_INCLUDED
 #define DOC_ALGO_H_INCLUDED
-#pragma once
+
 
 #include "gfx/fwd.h"
 #include "doc/algorithm/hline.h"

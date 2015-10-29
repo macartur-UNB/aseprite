@@ -7,7 +7,7 @@
 
 #ifndef APP_DOCUMENT_API_H_INCLUDED
 #define APP_DOCUMENT_API_H_INCLUDED
-#pragma once
+
 
 #include "doc/algorithm/flip_type.h"
 #include "doc/color.h"

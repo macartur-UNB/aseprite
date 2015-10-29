@@ -6,7 +6,7 @@
 
 #ifndef BASE_BASE_H_INCLUDED
 #define BASE_BASE_H_INCLUDED
-#pragma once
+
 
 #include "base/config.h"
 

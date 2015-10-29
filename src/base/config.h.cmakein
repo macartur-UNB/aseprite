@@ -6,7 +6,6 @@
 
 #ifndef BASE_CONFIG_H_INCLUDED
 #define BASE_CONFIG_H_INCLUDED
-#pragma once
 
 #cmakedefine HAVE_STDINT_H
 #cmakedefine HAVE_SCHED_YIELD

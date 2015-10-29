@@ -6,7 +6,7 @@
 
 #ifndef DOC_IMAGE_IO_H_INCLUDED
 #define DOC_IMAGE_IO_H_INCLUDED
-#pragma once
+
 
 #include <iosfwd>
 

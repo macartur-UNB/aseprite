@@ -7,7 +7,7 @@
 
 #ifndef APP_DOCUMENT_ACCESS_H_INCLUDED
 #define APP_DOCUMENT_ACCESS_H_INCLUDED
-#pragma once
+
 
 #include "base/exception.h"
 #include "app/context.h"

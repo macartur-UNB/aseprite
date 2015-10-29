@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_SET_LAYER_BLEND_MODE_H_INCLUDED
 #define APP_CMD_SET_LAYER_BLEND_MODE_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd.h"
 #include "app/cmd/with_layer.h"

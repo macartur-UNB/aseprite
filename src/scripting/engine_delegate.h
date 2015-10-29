@@ -6,7 +6,7 @@
 
 #ifndef SCRIPTING_ENGINE_DELEGATE_H_INCLUDED
 #define SCRIPTING_ENGINE_DELEGATE_H_INCLUDED
-#pragma once
+
 
 namespace scripting {
 

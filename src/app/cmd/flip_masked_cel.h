@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_FLIP_MASKED_CEL_H_INCLUDED
 #define APP_CMD_FLIP_MASKED_CEL_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd_sequence.h"
 #include "doc/algorithm/flip_type.h"

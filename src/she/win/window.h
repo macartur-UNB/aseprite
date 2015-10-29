@@ -6,7 +6,7 @@
 
 #ifndef SHE_WIN_WINDOW_H_INCLUDED
 #define SHE_WIN_WINDOW_H_INCLUDED
-#pragma once
+
 
 #include <windows.h>
 #include <windowsx.h>

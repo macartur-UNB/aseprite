@@ -6,7 +6,7 @@
 
 #ifndef DOC_ALGORITHM_POLYGON_H_INCLUDED
 #define DOC_ALGORITHM_POLYGON_H_INCLUDED
-#pragma once
+
 
 #include "doc/algorithm/hline.h"
 #include "gfx/fwd.h"

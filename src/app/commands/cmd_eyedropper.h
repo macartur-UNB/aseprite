@@ -7,7 +7,7 @@
 
 #ifndef APP_COMMANDS_CMD_EYEDROPPER_H_INCLUDED
 #define APP_COMMANDS_CMD_EYEDROPPER_H_INCLUDED
-#pragma once
+
 
 #include "app/color.h"
 #include "app/commands/command.h"

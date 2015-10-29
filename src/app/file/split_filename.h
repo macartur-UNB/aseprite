@@ -7,7 +7,7 @@
 
 #ifndef APP_FILE_SPLIT_FILENAME_H_INCLUDED
 #define APP_FILE_SPLIT_FILENAME_H_INCLUDED
-#pragma once
+
 
 #include <string>
 

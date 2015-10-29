@@ -6,7 +6,7 @@
 
 #ifndef GFX_RECT_IO_H_INCLUDED
 #define GFX_RECT_IO_H_INCLUDED
-#pragma once
+
 
 #include "gfx/rect.h"
 #include <iosfwd>

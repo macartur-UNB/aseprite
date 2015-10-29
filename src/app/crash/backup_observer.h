@@ -7,7 +7,7 @@
 
 #ifndef APP_CRASH_BACKUP_OBSERVER_H_INCLUDED
 #define APP_CRASH_BACKUP_OBSERVER_H_INCLUDED
-#pragma once
+
 
 #include "base/mutex.h"
 #include "base/thread.h"

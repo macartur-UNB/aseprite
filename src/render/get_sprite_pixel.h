@@ -6,7 +6,7 @@
 
 #ifndef RENDER_GET_SPRITE_PIXEL_H_INCLUDED
 #define RENDER_GET_SPRITE_PIXEL_H_INCLUDED
-#pragma once
+
 
 #include "doc/frame.h"
 

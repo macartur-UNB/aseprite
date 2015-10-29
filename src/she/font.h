@@ -6,7 +6,7 @@
 
 #ifndef SHE_FONT_H_INCLUDED
 #define SHE_FONT_H_INCLUDED
-#pragma once
+
 
 #include <string>
 

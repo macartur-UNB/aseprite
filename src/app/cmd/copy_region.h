@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_COPY_REGION_H_INCLUDED
 #define APP_CMD_COPY_REGION_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd.h"
 #include "app/cmd/with_image.h"

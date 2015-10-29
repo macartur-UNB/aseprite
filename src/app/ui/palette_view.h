@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_PALETTE_VIEW_H_INCLUDED
 #define APP_UI_PALETTE_VIEW_H_INCLUDED
-#pragma once
+
 
 #include "app/color.h"
 #include "app/ui/marching_ants.h"

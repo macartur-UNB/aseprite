@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_BRUSH_POPUP_H_INCLUDED
 #define APP_UI_BRUSH_POPUP_H_INCLUDED
-#pragma once
+
 
 #include "base/shared_ptr.h"
 #include "base/signal.h"

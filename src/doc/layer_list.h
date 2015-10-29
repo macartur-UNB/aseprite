@@ -6,7 +6,7 @@
 
 #ifndef DOC_LAYER_LIST_H_INCLUDED
 #define DOC_LAYER_LIST_H_INCLUDED
-#pragma once
+
 
 #include <list>
 

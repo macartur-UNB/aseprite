@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_TABS_H_INCLUDED
 #define APP_UI_TABS_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/animated_widget.h"
 #include "base/shared_ptr.h"

@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_SKIN_SKIN_THEME_H_INCLUDED
 #define APP_UI_SKIN_SKIN_THEME_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/skin/skin_part.h"
 #include "app/ui/skin/style_sheet.h"

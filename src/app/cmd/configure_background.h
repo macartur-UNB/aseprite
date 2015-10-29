@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_CONFIGURE_BACKGROUND_H_INCLUDED
 #define APP_CMD_CONFIGURE_BACKGROUND_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd_sequence.h"
 

@@ -6,7 +6,7 @@
 
 #ifndef DOC_LAYER_INDEX_H_INCLUDED
 #define DOC_LAYER_INDEX_H_INCLUDED
-#pragma once
+
 
 namespace doc {
 

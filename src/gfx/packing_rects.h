@@ -6,7 +6,7 @@
 
 #ifndef GFX_TEXTURE_SIZE_H_INCLUDED
 #define GFX_TEXTURE_SIZE_H_INCLUDED
-#pragma once
+
 
 #include "gfx/fwd.h"
 #include "gfx/rect.h"

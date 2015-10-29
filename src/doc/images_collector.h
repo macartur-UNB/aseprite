@@ -6,7 +6,7 @@
 
 #ifndef DOC_IMAGES_REF_H_INCLUDED
 #define DOC_IMAGES_REF_H_INCLUDED
-#pragma once
+
 
 #include "doc/frame.h"
 

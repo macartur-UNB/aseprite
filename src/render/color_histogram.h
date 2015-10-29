@@ -6,7 +6,7 @@
 
 #ifndef RENDER_COLOR_HISTOGRAM_H_INCLUDED
 #define RENDER_COLOR_HISTOGRAM_H_INCLUDED
-#pragma once
+
 
 #include <limits>
 #include <vector>

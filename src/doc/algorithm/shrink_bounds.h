@@ -6,7 +6,7 @@
 
 #ifndef DOC_ALGORITHM_SHRINK_BOUNDS_H_INCLUDED
 #define DOC_ALGORITHM_SHRINK_BOUNDS_H_INCLUDED
-#pragma once
+
 
 #include "gfx/fwd.h"
 #include "doc/algorithm/flip_type.h"

@@ -6,7 +6,7 @@
 
 #ifndef SHE_SKIA_SKIA_WINDOW_WIN_INCLUDED
 #define SHE_SKIA_SKIA_WINDOW_WIN_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 #include "she/skia/skia_surface.h"

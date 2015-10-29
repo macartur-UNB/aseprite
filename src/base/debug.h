@@ -6,7 +6,7 @@
 
 #ifndef BASE_DEBUG_H_INCLUDED
 #define BASE_DEBUG_H_INCLUDED
-#pragma once
+
 
 int base_assert(const char* condition, const char* file, int lineNum);
 void base_trace(const char* msg, ...);

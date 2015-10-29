@@ -7,7 +7,7 @@
 
 #ifndef APP_TOOLS_INK_TYPE_H_INCLUDED
 #define APP_TOOLS_INK_TYPE_H_INCLUDED
-#pragma once
+
 
 namespace app {
 namespace tools {

@@ -6,7 +6,7 @@
 
 #ifndef SHE_ALLEG4_DISPLAY_EVENTS_H_INCLUDED
 #define SHE_ALLEG4_DISPLAY_EVENTS_H_INCLUDED
-#pragma once
+
 
 namespace she {
 

@@ -6,7 +6,7 @@
 
 #ifndef RENDER_ZOOM_H_INCLUDED
 #define RENDER_ZOOM_H_INCLUDED
-#pragma once
+
 
 #include "gfx/rect.h"
 

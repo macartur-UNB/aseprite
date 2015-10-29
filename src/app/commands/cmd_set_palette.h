@@ -7,7 +7,7 @@
 
 #ifndef APP_COMMANDS_CMD_SET_PALETTE_H_INCLUDED
 #define APP_COMMANDS_CMD_SET_PALETTE_H_INCLUDED
-#pragma once
+
 
 #include "app/commands/command.h"
 

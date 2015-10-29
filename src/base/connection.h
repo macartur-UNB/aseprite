@@ -6,7 +6,7 @@
 
 #ifndef BASE_CONNETION_H_INCLUDED
 #define BASE_CONNETION_H_INCLUDED
-#pragma once
+
 
 class Signal;
 class Slot;

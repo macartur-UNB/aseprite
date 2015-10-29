@@ -6,7 +6,7 @@
 
 #ifndef BASE_OPEN_FILE_H_INCLUDED
 #define BASE_OPEN_FILE_H_INCLUDED
-#pragma once
+
 
 #include "base/shared_ptr.h"
 

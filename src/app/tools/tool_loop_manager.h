@@ -7,7 +7,7 @@
 
 #ifndef APP_TOOLS_TOOL_LOOP_MANAGER_H_INCLUDED
 #define APP_TOOLS_TOOL_LOOP_MANAGER_H_INCLUDED
-#pragma once
+
 
 #include "gfx/point.h"
 #include "gfx/region.h"

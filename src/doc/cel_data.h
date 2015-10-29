@@ -6,7 +6,7 @@
 
 #ifndef DOC_CEL_DATA_H_INCLUDED
 #define DOC_CEL_DATA_H_INCLUDED
-#pragma once
+
 
 #include "base/shared_ptr.h"
 #include "doc/image_ref.h"

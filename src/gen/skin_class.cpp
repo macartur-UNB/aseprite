@@ -67,7 +67,6 @@ void gen_skin_class(TiXmlDocument* doc, const std::string& inputFn)
     << "\n"
     << "#ifndef GENERATED_SKIN_H_INCLUDED\n"
     << "#define GENERATED_SKIN_H_INCLUDED\n"
-    << "#pragma once\n"
     << "\n"
     << "namespace app {\n"
     << "namespace gen {\n"

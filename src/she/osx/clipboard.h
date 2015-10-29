@@ -6,7 +6,7 @@
 
 #ifndef SHE_OSX_CLIPBOARD_H_INCLUDED
 #define SHE_OSX_CLIPBOARD_H_INCLUDED
-#pragma once
+
 
 #include "base/string.h"
 #include "she/clipboard.h"

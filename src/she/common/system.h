@@ -6,7 +6,7 @@
 
 #ifndef SHE_COMMON_SYSTEM_H
 #define SHE_COMMON_SYSTEM_H
-#pragma once
+
 
 #ifdef _WIN32
   #include "she/win/clipboard.h"

@@ -7,7 +7,7 @@
 
 #ifndef APP_UTIL_MSK_FILE_H_INCLUDED
 #define APP_UTIL_MSK_FILE_H_INCLUDED
-#pragma once
+
 
 namespace doc {
   class Mask;

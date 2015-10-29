@@ -6,7 +6,7 @@
 
 #ifndef RENDER_ORDERED_DITHER_H_INCLUDED
 #define RENDER_ORDERED_DITHER_H_INCLUDED
-#pragma once
+
 
 #include "doc/color.h"
 #include "doc/image_impl.h"

@@ -7,7 +7,7 @@
 
 #ifndef APP_UTIL_EXPAND_CEL_CANVAS_H_INCLUDED
 #define APP_UTIL_EXPAND_CEL_CANVAS_H_INCLUDED
-#pragma once
+
 
 #include "doc/image_ref.h"
 #include "filters/tiled_mode.h"

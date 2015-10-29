@@ -6,7 +6,7 @@
 
 #ifndef UI_WINDOW_H_INCLUDED
 #define UI_WINDOW_H_INCLUDED
-#pragma once
+
 
 #include "base/signal.h"
 #include "gfx/point.h"

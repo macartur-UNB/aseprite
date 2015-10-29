@@ -6,7 +6,7 @@
 
 #ifndef BASE_SPLIT_STRING_H_INCLUDED
 #define BASE_SPLIT_STRING_H_INCLUDED
-#pragma once
+
 
 #include <string>
 #include <vector>

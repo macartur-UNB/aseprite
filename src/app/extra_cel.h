@@ -7,7 +7,7 @@
 
 #ifndef APP_EXTRA_CEL_H_INCLUDED
 #define APP_EXTRA_CEL_H_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 #include "base/unique_ptr.h"

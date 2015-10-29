@@ -7,7 +7,7 @@
 
 #ifndef APP_RES_PALETTES_LOADER_DELEGATE_H_INCLUDED
 #define APP_RES_PALETTES_LOADER_DELEGATE_H_INCLUDED
-#pragma once
+
 
 #include "app/res/resources_loader_delegate.h"
 

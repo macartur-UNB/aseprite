@@ -6,7 +6,7 @@
 
 #ifndef DOC_FRAME_TAGS_H_INCLUDED
 #define DOC_FRAME_TAGS_H_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 #include "doc/frame.h"

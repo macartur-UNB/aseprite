@@ -6,7 +6,7 @@
 
 #ifndef UNDO_UNDO_HISTORY_H_INCLUDED
 #define UNDO_UNDO_HISTORY_H_INCLUDED
-#pragma once
+
 
 namespace undo {
 

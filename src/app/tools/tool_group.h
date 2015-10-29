@@ -7,7 +7,7 @@
 
 #ifndef APP_TOOLS_TOOL_GROUP_H_INCLUDED
 #define APP_TOOLS_TOOL_GROUP_H_INCLUDED
-#pragma once
+
 
 #include <string>
 

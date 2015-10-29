@@ -6,7 +6,7 @@
 
 #ifndef DOC_IMAGE_IMPL_H_INCLUDED
 #define DOC_IMAGE_IMPL_H_INCLUDED
-#pragma once
+
 
 #include <cstdlib>
 #include <cstring>

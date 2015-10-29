@@ -7,7 +7,7 @@
 
 #ifndef APP_COLOR_TARGET_H_INCLUDED
 #define APP_COLOR_TARGET_H_INCLUDED
-#pragma once
+
 
 #include "doc/color.h"
 #include "doc/layer.h"

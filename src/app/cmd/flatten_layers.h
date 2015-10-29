@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_FLATTEN_LAYERS_H_INCLUDED
 #define APP_CMD_FLATTEN_LAYERS_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd/with_sprite.h"
 #include "app/cmd_sequence.h"

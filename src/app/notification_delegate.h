@@ -7,7 +7,7 @@
 
 #ifndef APP_NOTIFICATION_DELEGATE_H_INCLUDED
 #define APP_NOTIFICATION_DELEGATE_H_INCLUDED
-#pragma once
+
 
 #include <string>
 

@@ -7,7 +7,7 @@
 
 #ifndef APP_COMMANDS_FILTERS_FILTER_MANAGER_IMPL_H_INCLUDED
 #define APP_COMMANDS_FILTERS_FILTER_MANAGER_IMPL_H_INCLUDED
-#pragma once
+
 
 #include "base/exception.h"
 #include "base/unique_ptr.h"

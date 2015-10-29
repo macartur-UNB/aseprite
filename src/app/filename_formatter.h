@@ -7,7 +7,7 @@
 
 #ifndef APP_FILENAME_FORMATTER_H_INCLUDED
 #define APP_FILENAME_FORMATTER_H_INCLUDED
-#pragma once
+
 
 #include <string>
 

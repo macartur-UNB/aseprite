@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_CONTEXT_BAR_H_INCLUDED
 #define APP_UI_CONTEXT_BAR_H_INCLUDED
-#pragma once
+
 
 #include "app/pref/preferences.h"
 #include "app/tools/selection_mode.h"

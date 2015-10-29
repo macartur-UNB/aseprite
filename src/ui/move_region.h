@@ -6,7 +6,7 @@
 
 #ifndef UI_MOVE_REGION_H_INCLUDED
 #define UI_MOVE_REGION_H_INCLUDED
-#pragma once
+
 
 #include "gfx/region.h"
 

@@ -6,7 +6,7 @@
 
 #ifndef DOC_ALGORITHM_FLIP_TYPE_H_INCLUDED
 #define DOC_ALGORITHM_FLIP_TYPE_H_INCLUDED
-#pragma once
+
 
 namespace doc {
   namespace algorithm {

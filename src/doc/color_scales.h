@@ -6,7 +6,7 @@
 
 #ifndef DOC_COLOR_SCALES_H_INCLUDED
 #define DOC_COLOR_SCALES_H_INCLUDED
-#pragma once
+
 
 #include "doc/frame.h"
 #include "doc/object.h"

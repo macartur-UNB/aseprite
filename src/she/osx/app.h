@@ -6,7 +6,7 @@
 
 #ifndef SHE_OSX_APP_H_INCLUDED
 #define SHE_OSX_APP_H_INCLUDED
-#pragma once
+
 
 namespace base {
   class thread;

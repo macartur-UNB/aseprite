@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_COPY_FRAME_H_INCLUDED
 #define APP_CMD_COPY_FRAME_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd_sequence.h"
 #include "app/cmd/with_sprite.h"

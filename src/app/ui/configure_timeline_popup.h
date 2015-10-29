@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_CONFIGURE_TIMELINE_POPUP_H_INCLUDED
 #define APP_UI_CONFIGURE_TIMELINE_POPUP_H_INCLUDED
-#pragma once
+
 
 #include "app/pref/preferences.h"
 #include "doc/anidir.h"

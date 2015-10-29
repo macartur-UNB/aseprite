@@ -6,7 +6,7 @@
 
 #ifndef GFX_COLOR_H_INCLUDED
 #define GFX_COLOR_H_INCLUDED
-#pragma once
+
 
 namespace gfx {
 

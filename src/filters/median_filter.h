@@ -7,7 +7,7 @@
 
 #ifndef FILTERS_MEDIAN_FILTER_PROCESS_H_INCLUDED
 #define FILTERS_MEDIAN_FILTER_PROCESS_H_INCLUDED
-#pragma once
+
 
 #include "filters/filter.h"
 #include "filters/tiled_mode.h"

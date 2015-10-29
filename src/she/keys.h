@@ -6,7 +6,7 @@
 
 #ifndef SHE_KEYS_H_INCLUDED
 #define SHE_KEYS_H_INCLUDED
-#pragma once
+
 
 namespace she {
 

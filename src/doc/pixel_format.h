@@ -6,7 +6,7 @@
 
 #ifndef DOC_PIXEL_FORMAT_H_INCLUDED
 #define DOC_PIXEL_FORMAT_H_INCLUDED
-#pragma once
+
 
 namespace doc {
 

@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_WORKSPACE_TABS_H_INCLUDED
 #define APP_UI_WORKSPACE_TABS_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/tabs.h"
 

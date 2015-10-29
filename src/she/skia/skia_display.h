@@ -6,7 +6,7 @@
 
 #ifndef SHE_SKIA_SKIA_DISPLAY_INCLUDED
 #define SHE_SKIA_SKIA_DISPLAY_INCLUDED
-#pragma once
+
 
 #include "she/display.h"
 #include "she/native_cursor.h"

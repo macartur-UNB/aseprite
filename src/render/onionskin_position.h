@@ -6,7 +6,7 @@
 
 #ifndef RENDER_ONIONSKIN_POSITION_H_INCLUDED
 #define RENDER_ONIONSKIN_POSITION_H_INCLUDED
-#pragma once
+
 
 namespace render {
 

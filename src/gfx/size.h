@@ -6,7 +6,7 @@
 
 #ifndef GFX_SIZE_H_INCLUDED
 #define GFX_SIZE_H_INCLUDED
-#pragma once
+
 
 #include <algorithm>
 

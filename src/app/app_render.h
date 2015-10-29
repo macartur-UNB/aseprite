@@ -7,7 +7,7 @@
 
 #ifndef APP_RENDER_H_INCLUDED
 #define APP_RENDER_H_INCLUDED
-#pragma once
+
 
 #include "doc/pixel_format.h"
 #include "render/render.h"

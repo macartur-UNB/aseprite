@@ -7,7 +7,7 @@
 
 #ifndef APP_DOCUMENT_H_INCLUDED
 #define APP_DOCUMENT_H_INCLUDED
-#pragma once
+
 
 #include "app/extra_cel.h"
 #include "app/file/format_options.h"

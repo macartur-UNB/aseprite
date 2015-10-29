@@ -6,7 +6,7 @@
 
 #ifndef SHE_OSX_EVENT_QUEUE_INCLUDED
 #define SHE_OSX_EVENT_QUEUE_INCLUDED
-#pragma once
+
 
 #include "base/concurrent_queue.h"
 #include "she/event.h"

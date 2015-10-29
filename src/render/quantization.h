@@ -6,7 +6,7 @@
 
 #ifndef RENDER_QUANTIZATION_H_INCLUDED
 #define RENDER_QUANTIZATION_H_INCLUDED
-#pragma once
+
 
 #include "doc/dithering_method.h"
 #include "doc/frame.h"

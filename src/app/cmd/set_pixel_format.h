@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_SET_PIXEL_FORMAT_H_INCLUDED
 #define APP_CMD_SET_PIXEL_FORMAT_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd_sequence.h"
 #include "app/cmd/with_sprite.h"

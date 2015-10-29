@@ -6,7 +6,7 @@
 
 #ifndef BASE_MEMORY_H_INCLUDED
 #define BASE_MEMORY_H_INCLUDED
-#pragma once
+
 
 #include <cstddef>
 

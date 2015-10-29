@@ -7,7 +7,7 @@
 
 #ifndef APP_CRASH_SESSION_H_INCLUDED
 #define APP_CRASH_SESSION_H_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 #include "base/process.h"

@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_ZOOM_ENTRY_H_INCLUDED
 #define APP_UI_ZOOM_ENTRY_H_INCLUDED
-#pragma once
+
 
 #include "render/zoom.h"
 #include "ui/int_entry.h"

@@ -6,7 +6,7 @@
 
 #ifndef BASE_SLOT_H_INCLUDED
 #define BASE_SLOT_H_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 

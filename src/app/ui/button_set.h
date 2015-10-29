@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_BUTTON_SET_H_INCLUDED
 #define APP_UI_BUTTON_SET_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/skin/skin_part.h"
 #include "base/signal.h"

@@ -7,7 +7,7 @@
 
 #ifndef APP_INPUT_CHAIN_ELEMENT_H_INCLUDED
 #define APP_INPUT_CHAIN_ELEMENT_H_INCLUDED
-#pragma once
+
 
 namespace app {
 

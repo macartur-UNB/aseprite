@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_PALETTE_POPUP_H_INCLUDED
 #define APP_UI_PALETTE_POPUP_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/palettes_listbox.h"
 #include "ui/popup_window.h"

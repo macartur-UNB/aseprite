@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_NEWS_LISTBOX_H_INCLUDED
 #define APP_UI_NEWS_LISTBOX_H_INCLUDED
-#pragma once
+
 
 #include "ui/listbox.h"
 #include "ui/timer.h"

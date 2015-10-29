@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_FRAME_TAG_WINDOW_H_INCLUDED
 #define APP_UI_FRAME_TAG_WINDOW_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/color_button.h"
 #include "doc/anidir.h"

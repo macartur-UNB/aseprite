@@ -7,7 +7,7 @@
 
 #ifndef APP_UTIL_CREATE_CEL_COPY_H_INCLUDED
 #define APP_UTIL_CREATE_CEL_COPY_H_INCLUDED
-#pragma once
+
 
 #include "doc/frame.h"
 

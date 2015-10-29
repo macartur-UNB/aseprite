@@ -7,7 +7,7 @@
 
 #ifndef APP_CRASH_INTERNALS_H_INCLUDED
 #define APP_CRASH_INTERNALS_H_INCLUDED
-#pragma once
+
 
 #include "doc/object.h"
 

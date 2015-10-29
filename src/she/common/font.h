@@ -6,7 +6,7 @@
 
 #ifndef SHE_COMMON_FONT_H
 #define SHE_COMMON_FONT_H
-#pragma once
+
 
 #include "base/string.h"
 #include "gfx/rect.h"

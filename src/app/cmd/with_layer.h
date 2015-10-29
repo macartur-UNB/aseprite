@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_WITH_LAYER_H_INCLUDED
 #define APP_CMD_WITH_LAYER_H_INCLUDED
-#pragma once
+
 
 #include "doc/object_id.h"
 

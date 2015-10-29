@@ -6,7 +6,7 @@
 
 #ifndef SHE_WIN_EVENT_QUEUE_INCLUDED
 #define SHE_WIN_EVENT_QUEUE_INCLUDED
-#pragma once
+
 
 #include <queue>
 

@@ -6,7 +6,7 @@
 
 #ifndef DOC_CEL_LIST_H_INCLUDED
 #define DOC_CEL_LIST_H_INCLUDED
-#pragma once
+
 
 #include <list>
 

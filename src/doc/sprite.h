@@ -6,7 +6,7 @@
 
 #ifndef DOC_SPRITE_H_INCLUDED
 #define DOC_SPRITE_H_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 #include "doc/cel_data.h"

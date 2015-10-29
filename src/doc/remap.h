@@ -6,7 +6,7 @@
 
 #ifndef DOC_REMAP_H_INCLUDED
 #define DOC_REMAP_H_INCLUDED
-#pragma once
+
 
 #include <vector>
 

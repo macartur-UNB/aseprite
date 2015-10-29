@@ -7,7 +7,7 @@
 
 #ifndef APP_TOOLS_CONTROLLER_H_INCLUDED
 #define APP_TOOLS_CONTROLLER_H_INCLUDED
-#pragma once
+
 
 #include "gfx/point.h"
 #include "ui/keys.h"

@@ -6,7 +6,7 @@
 
 #ifndef SHE_ALLEG4_ALLEG_SURFACE_H_INCLUDED
 #define SHE_ALLEG4_ALLEG_SURFACE_H_INCLUDED
-#pragma once
+
 
 #include <allegro.h>
 

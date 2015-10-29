@@ -6,7 +6,7 @@
 
 #ifndef DOC_SITE_H_INCLUDED
 #define DOC_SITE_H_INCLUDED
-#pragma once
+
 
 #include "doc/frame.h"
 #include "doc/layer_index.h"

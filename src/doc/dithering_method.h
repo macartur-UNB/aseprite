@@ -6,7 +6,7 @@
 
 #ifndef DOC_DITHERING_METHOD_H_INCLUDED
 #define DOC_DITHERING_METHOD_H_INCLUDED
-#pragma once
+
 
 namespace doc {
 

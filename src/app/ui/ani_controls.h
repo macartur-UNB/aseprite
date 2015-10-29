@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_ANI_CONTROLS_H_INCLUDED
 #define APP_UI_ANI_CONTROLS_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/button_set.h"
 #include "ui/widget.h"

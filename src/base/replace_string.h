@@ -6,7 +6,7 @@
 
 #ifndef BASE_REPLACE_STRING_H_INCLUDED
 #define BASE_REPLACE_STRING_H_INCLUDED
-#pragma once
+
 
 #include <string>
 

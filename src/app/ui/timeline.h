@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_TIMELINE_H_INCLUDED
 #define APP_UI_TIMELINE_H_INCLUDED
-#pragma once
+
 
 #include "app/document_range.h"
 #include "app/pref/preferences.h"

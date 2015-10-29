@@ -7,7 +7,7 @@
 
 #ifndef APP_MODULES_GFX_H_INCLUDED
 #define APP_MODULES_GFX_H_INCLUDED
-#pragma once
+
 
 #include "app/color.h"
 #include "gfx/color.h"

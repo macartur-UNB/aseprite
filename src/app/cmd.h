@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_H_INCLUDED
 #define APP_CMD_H_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 #include "doc/sprite_position.h"

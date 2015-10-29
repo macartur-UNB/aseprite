@@ -6,7 +6,7 @@
 
 #ifndef UI_LINK_LABEL_H_INCLUDED
 #define UI_LINK_LABEL_H_INCLUDED
-#pragma once
+
 
 #include "base/signal.h"
 #include "ui/custom_label.h"

@@ -6,7 +6,7 @@
 
 #ifndef SHE_EVENT_H_INCLUDED
 #define SHE_EVENT_H_INCLUDED
-#pragma once
+
 
 #include "gfx/point.h"
 #include "gfx/size.h"

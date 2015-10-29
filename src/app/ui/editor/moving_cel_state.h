@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_EDITOR_MOVING_CEL_STATE_H_INCLUDED
 #define APP_UI_EDITOR_MOVING_CEL_STATE_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/editor/standby_state.h"
 

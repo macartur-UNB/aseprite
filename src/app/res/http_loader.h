@@ -7,7 +7,7 @@
 
 #ifndef APP_RES_HTTP_LOADER_H_INCLUDED
 #define APP_RES_HTTP_LOADER_H_INCLUDED
-#pragma once
+
 
 #include "base/thread.h"
 #include <string>

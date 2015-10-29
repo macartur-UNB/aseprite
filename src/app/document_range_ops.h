@@ -7,7 +7,7 @@
 
 #ifndef APP_DOCUMENT_RANGE_OPS_H_INCLUDED
 #define APP_DOCUMENT_RANGE_OPS_H_INCLUDED
-#pragma once
+
 
 #include <vector>
 

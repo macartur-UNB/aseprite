@@ -7,7 +7,7 @@
 
 #ifndef APP_PREF_OPTION_IO_H_INCLUDED
 #define APP_PREF_OPTION_IO_H_INCLUDED
-#pragma once
+
 
 #include "app/ini_file.h"
 #include "app/pref/option.h"

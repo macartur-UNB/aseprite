@@ -7,7 +7,7 @@
 
 #ifndef APP_FILE_GIF_OPTIONS_H_INCLUDED
 #define APP_FILE_GIF_OPTIONS_H_INCLUDED
-#pragma once
+
 
 #include "app/file/format_options.h"
 #include "doc/dithering_method.h"

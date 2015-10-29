@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_DESELECT_MASK_H_INCLUDED
 #define APP_CMD_DESELECT_MASK_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd.h"
 #include "app/cmd/with_document.h"

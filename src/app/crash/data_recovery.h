@@ -7,7 +7,7 @@
 
 #ifndef APP_CRASH_DATA_RECOVERY_H_INCLUDED
 #define APP_CRASH_DATA_RECOVERY_H_INCLUDED
-#pragma once
+
 
 #include "app/crash/session.h"
 #include "base/disable_copying.h"

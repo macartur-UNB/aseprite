@@ -7,7 +7,7 @@
 
 #ifndef FILTERS_FILTER_H_INCLUDED
 #define FILTERS_FILTER_H_INCLUDED
-#pragma once
+
 
 namespace filters {
 

@@ -6,7 +6,7 @@
 
 #ifndef UI_MENU_H_INCLUDED
 #define UI_MENU_H_INCLUDED
-#pragma once
+
 
 #include "base/signal.h"
 #include "base/unique_ptr.h"

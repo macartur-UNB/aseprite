@@ -7,7 +7,7 @@
 
 #ifndef APP_SNAP_TO_GRID_H_INCLUDED
 #define APP_SNAP_TO_GRID_H_INCLUDED
-#pragma once
+
 
 #include "gfx/fwd.h"
 

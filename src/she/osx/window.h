@@ -6,7 +6,7 @@
 
 #ifndef SHE_OSX_WINDOW_H_INCLUDED
 #define SHE_OSX_WINDOW_H_INCLUDED
-#pragma once
+
 
 #include <AppKit/AppKit.h>
 #include <CoreFoundation/CoreFoundation.h>

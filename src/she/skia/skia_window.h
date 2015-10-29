@@ -6,7 +6,7 @@
 
 #ifndef SHE_SKIA_SKIA_WINDOW_INCLUDED
 #define SHE_SKIA_SKIA_WINDOW_INCLUDED
-#pragma once
+
 
 #ifdef _WIN32
   #include "she/skia/skia_window_win.h"

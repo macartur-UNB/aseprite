@@ -7,7 +7,7 @@
 
 #ifndef APP_UTIL_AUTOCROP_H_INCLUDED
 #define APP_UTIL_AUTOCROP_H_INCLUDED
-#pragma once
+
 
 #include "doc/color.h"
 

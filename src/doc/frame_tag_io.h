@@ -6,7 +6,7 @@
 
 #ifndef DOC_FRAME_TAG_IO_H_INCLUDED
 #define DOC_FRAME_TAG_IO_H_INCLUDED
-#pragma once
+
 
 #include <iosfwd>
 

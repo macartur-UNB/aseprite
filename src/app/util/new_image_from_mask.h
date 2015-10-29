@@ -7,7 +7,7 @@
 
 #ifndef APP_UTIL_NEW_IMAGE_FROM_MASK_H_INCLUDED
 #define APP_UTIL_NEW_IMAGE_FROM_MASK_H_INCLUDED
-#pragma once
+
 
 namespace doc {
   class Image;

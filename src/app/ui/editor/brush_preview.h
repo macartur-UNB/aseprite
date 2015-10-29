@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_EDITOR_BRUSH_PREVIEW_H_INCLUDED
 #define APP_UI_EDITOR_BRUSH_PREVIEW_H_INCLUDED
-#pragma once
+
 
 #include "app/extra_cel.h"
 #include "base/shared_ptr.h"

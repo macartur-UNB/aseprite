@@ -6,7 +6,7 @@
 
 #ifndef UI_IMAGE_VIEW_H_INCLUDED
 #define UI_IMAGE_VIEW_H_INCLUDED
-#pragma once
+
 
 #include "ui/widget.h"
 

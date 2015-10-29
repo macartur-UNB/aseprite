@@ -7,7 +7,7 @@
 
 #ifndef APP_CRASH_READ_DOCUMENT_H_INCLUDED
 #define APP_CRASH_READ_DOCUMENT_H_INCLUDED
-#pragma once
+
 
 #include "doc/frame.h"
 #include "doc/pixel_format.h"

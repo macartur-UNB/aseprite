@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_STYLED_BUTTON_H_INCLUDED
 #define APP_UI_STYLED_BUTTON_H_INCLUDED
-#pragma once
+
 
 #include "ui/button.h"
 

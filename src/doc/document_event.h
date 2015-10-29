@@ -6,7 +6,7 @@
 
 #ifndef DOC_DOCUMENT_EVENT_H_INCLUDED
 #define DOC_DOCUMENT_EVENT_H_INCLUDED
-#pragma once
+
 
 #include "gfx/region.h"
 #include "doc/frame.h"

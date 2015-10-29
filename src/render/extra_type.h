@@ -6,7 +6,7 @@
 
 #ifndef RENDER_EXTRA_TYPE_H_INCLUDED
 #define RENDER_EXTRA_TYPE_H_INCLUDED
-#pragma once
+
 
 namespace render {
 

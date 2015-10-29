@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_SHIFT_MASKED_CEL_H_INCLUDED
 #define APP_CMD_SHIFT_MASKED_CEL_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd.h"
 #include "app/cmd/with_cel.h"

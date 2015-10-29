@@ -6,7 +6,7 @@
 
 #ifndef BASE_PI_H_INCLUDED
 #define BASE_PI_H_INCLUDED
-#pragma once
+
 
 #ifndef PI
 #define PI            3.14159265358979323846

@@ -7,7 +7,7 @@
 
 #ifndef APP_INI_FILE_H_INCLUDED
 #define APP_INI_FILE_H_INCLUDED
-#pragma once
+
 
 #include "gfx/rect.h"
 #include "app/color.h"

@@ -6,7 +6,7 @@
 
 #ifndef DOC_DOCUMENTS_H_INCLUDED
 #define DOC_DOCUMENTS_H_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 #include "base/observable.h"

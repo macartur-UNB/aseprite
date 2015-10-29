@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_EDITOR_PIVOT_HELPERS_H_INCLUDED
 #define APP_UI_EDITOR_PIVOT_HELPERS_H_INCLUDED
-#pragma once
+
 
 namespace gfx {
   class Transformation;

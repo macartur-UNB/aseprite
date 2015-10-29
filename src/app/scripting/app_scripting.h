@@ -7,7 +7,7 @@
 
 #ifndef APP_SCRIPTING_H_INCLUDED
 #define APP_SCRIPTING_H_INCLUDED
-#pragma once
+
 
 #include "scripting/engine.h"
 

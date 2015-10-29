@@ -7,7 +7,7 @@
 
 #ifndef APP_PREF_PREFERENCES_H_INCLUDED
 #define APP_PREF_PREFERENCES_H_INCLUDED
-#pragma once
+
 
 #include "app/color.h"
 #include "app/pref/option.h"

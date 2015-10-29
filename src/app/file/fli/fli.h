@@ -18,7 +18,7 @@
  */
 #ifndef APP_FILE_FLI_FLI_H_INCLUDED
 #define APP_FILE_FLI_FLI_H_INCLUDED
-#pragma once
+
 
 /** structures */
 

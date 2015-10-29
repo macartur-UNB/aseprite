@@ -6,7 +6,7 @@
 
 #ifndef UI_GRID_H_INCLUDED
 #define UI_GRID_H_INCLUDED
-#pragma once
+
 
 #include "ui/widget.h"
 

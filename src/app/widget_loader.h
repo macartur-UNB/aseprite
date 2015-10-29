@@ -7,7 +7,7 @@
 
 #ifndef APP_WIDGET_LOADER_H_INCLUDED
 #define APP_WIDGET_LOADER_H_INCLUDED
-#pragma once
+
 
 #include "app/widget_type_mismatch.h"
 

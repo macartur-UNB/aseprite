@@ -6,7 +6,7 @@
 
 #ifndef DOC_BRUSH_PATTERN_H_INCLUDED
 #define DOC_BRUSH_PATTERN_H_INCLUDED
-#pragma once
+
 
 namespace doc {
 

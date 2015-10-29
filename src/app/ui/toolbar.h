@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_TOOLBAR_H_INCLUDED
 #define APP_UI_TOOLBAR_H_INCLUDED
-#pragma once
+
 
 #include "base/connection.h"
 #include "gfx/point.h"

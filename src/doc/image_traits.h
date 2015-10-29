@@ -6,7 +6,7 @@
 
 #ifndef DOC_IMAGE_TRAITS_H_INCLUDED
 #define DOC_IMAGE_TRAITS_H_INCLUDED
-#pragma once
+
 
 #include "doc/blend_funcs.h"
 #include "doc/pixel_format.h"

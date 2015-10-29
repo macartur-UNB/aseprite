@@ -6,7 +6,7 @@
 
 #ifndef RENDER_RENDER_H_INCLUDED
 #define RENDER_RENDER_H_INCLUDED
-#pragma once
+
 
 #include "doc/anidir.h"
 #include "doc/blend_mode.h"

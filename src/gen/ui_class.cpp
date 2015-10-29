@@ -96,7 +96,6 @@ void gen_ui_class(TiXmlDocument* doc, const std::string& inputFn, const std::str
   std::cout
     << "#ifndef GENERATED_" << fnUpper << "_H_INCLUDED\n"
     << "#define GENERATED_" << fnUpper << "_H_INCLUDED\n"
-    << "#pragma once\n"
     << "\n"
     << "#include \"app/find_widget.h\"\n"
     << "#include \"app/load_widget.h\"\n"

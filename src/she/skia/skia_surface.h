@@ -6,7 +6,7 @@
 
 #ifndef SHE_SKIA_SKIA_SURFACE_INCLUDED
 #define SHE_SKIA_SKIA_SURFACE_INCLUDED
-#pragma once
+
 
 #include "gfx/clip.h"
 #include "she/common/font.h"

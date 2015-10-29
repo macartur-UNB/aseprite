@@ -6,7 +6,7 @@
 
 #ifndef UI_VIEW_H_INCLUDED
 #define UI_VIEW_H_INCLUDED
-#pragma once
+
 
 #include "gfx/point.h"
 #include "gfx/size.h"

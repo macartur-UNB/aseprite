@@ -6,7 +6,7 @@
 
 #ifndef DOC_CELS_RANGE_H_INCLUDED
 #define DOC_CELS_RANGE_H_INCLUDED
-#pragma once
+
 
 #include "doc/frame.h"
 #include "doc/object_id.h"

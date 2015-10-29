@@ -6,7 +6,7 @@
 
 #ifndef DOC_DOCUMENTS_OBSERVER_H_INCLUDED
 #define DOC_DOCUMENTS_OBSERVER_H_INCLUDED
-#pragma once
+
 
 namespace doc {
   class Document;

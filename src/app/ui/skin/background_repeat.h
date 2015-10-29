@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_SKIN_BACKGROUND_REPEAT_H_INCLUDED
 #define APP_UI_SKIN_BACKGROUND_REPEAT_H_INCLUDED
-#pragma once
+
 
 namespace app {
 namespace skin {

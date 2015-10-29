@@ -6,7 +6,7 @@
 
 #ifndef DOC_PALETTE_H_INCLUDED
 #define DOC_PALETTE_H_INCLUDED
-#pragma once
+
 
 #include "doc/color.h"
 #include "doc/frame.h"

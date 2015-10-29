@@ -6,7 +6,7 @@
 
 #ifndef BASE_CONCURRENT_QUEUE_H_INCLUDED
 #define BASE_CONCURRENT_QUEUE_H_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 #include "base/mutex.h"

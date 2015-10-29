@@ -6,7 +6,7 @@
 
 #ifndef DOC_LAYER_H_INCLUDED
 #define DOC_LAYER_H_INCLUDED
-#pragma once
+
 
 #include "doc/blend_mode.h"
 #include "doc/cel_list.h"

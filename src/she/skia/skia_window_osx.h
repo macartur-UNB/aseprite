@@ -6,7 +6,7 @@
 
 #ifndef SHE_SKIA_SKIA_WINDOW_OSX_INCLUDED
 #define SHE_SKIA_SKIA_WINDOW_OSX_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 #include "she/native_cursor.h"

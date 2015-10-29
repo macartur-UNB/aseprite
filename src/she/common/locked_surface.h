@@ -6,7 +6,7 @@
 
 #ifndef SHE_COMMON_LOCKED_SURFACE_H
 #define SHE_COMMON_LOCKED_SURFACE_H
-#pragma once
+
 
 #include "gfx/clip.h"
 #include "she/common/font.h"

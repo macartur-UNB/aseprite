@@ -6,7 +6,7 @@
 
 #ifndef SHE_CLOCK_H_INCLUDED
 #define SHE_CLOCK_H_INCLUDED
-#pragma once
+
 
 namespace she {
 

@@ -6,7 +6,7 @@
 
 #ifndef DOC_ALGORITHM_SHIFT_IMAGE_H_INCLUDED
 #define DOC_ALGORITHM_SHIFT_IMAGE_H_INCLUDED
-#pragma once
+
 
 namespace doc {
   class Image;

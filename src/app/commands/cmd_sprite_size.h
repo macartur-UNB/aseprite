@@ -7,7 +7,7 @@
 
 #ifndef APP_COMMANDS_CMD_SPRITE_SIZE_H_INCLUDED
 #define APP_COMMANDS_CMD_SPRITE_SIZE_H_INCLUDED
-#pragma once
+
 
 #include "app/commands/command.h"
 #include "doc/algorithm/resize_image.h"

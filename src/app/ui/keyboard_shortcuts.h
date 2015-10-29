@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_KEYBOARD_SHORTCUTS_H_INCLUDED
 #define APP_UI_KEYBOARD_SHORTCUTS_H_INCLUDED
-#pragma once
+
 
 #include "app/commands/params.h"
 #include "base/convert_to.h"

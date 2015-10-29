@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_PALETTES_LISTBOX_H_INCLUDED
 #define APP_UI_PALETTES_LISTBOX_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/resources_listbox.h"
 

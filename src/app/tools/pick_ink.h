@@ -7,7 +7,7 @@
 
 #ifndef APP_TOOLS_PICK_INK_H_INCLUDED
 #define APP_TOOLS_PICK_INK_H_INCLUDED
-#pragma once
+
 
 #include "app/tools/ink.h"
 

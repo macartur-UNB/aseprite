@@ -6,7 +6,7 @@
 
 #ifndef SHE_WIN_NATIVE_DIALOGS_H_INCLUDED
 #define SHE_WIN_NATIVE_DIALOGS_H_INCLUDED
-#pragma once
+
 
 #include "she/native_dialogs.h"
 

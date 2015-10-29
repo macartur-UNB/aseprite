@@ -6,7 +6,7 @@
 
 #ifndef GFX_CLIP_H_INCLUDED
 #define GFX_CLIP_H_INCLUDED
-#pragma once
+
 
 #include "gfx/point.h"
 #include "gfx/rect.h"

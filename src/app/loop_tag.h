@@ -7,7 +7,7 @@
 
 #ifndef APP_LOOP_TAG_H_INCLUDED
 #define APP_LOOP_TAG_H_INCLUDED
-#pragma once
+
 
 #include "doc/frame.h"
 

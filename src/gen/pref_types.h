@@ -6,7 +6,7 @@
 
 #ifndef GEN_PREF_CLASS_H_INCLUDED
 #define GEN_PREF_CLASS_H_INCLUDED
-#pragma once
+
 
 #include <string>
 #include "tinyxml.h"

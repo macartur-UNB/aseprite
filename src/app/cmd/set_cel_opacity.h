@@ -7,7 +7,7 @@
 
 #ifndef APP_CMD_SET_CEL_OPACITY_H_INCLUDED
 #define APP_CMD_SET_CEL_OPACITY_H_INCLUDED
-#pragma once
+
 
 #include "app/cmd.h"
 #include "app/cmd/with_cel.h"

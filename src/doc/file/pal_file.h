@@ -6,7 +6,7 @@
 
 #ifndef DOC_FILE_PAL_FILE_H_INCLUDED
 #define DOC_FILE_PAL_FILE_H_INCLUDED
-#pragma once
+
 
 namespace doc {
 

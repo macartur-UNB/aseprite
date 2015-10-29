@@ -6,7 +6,7 @@
 
 #ifndef DOC_ALGORITHM_HLINE_H_INCLUDED
 #define DOC_ALGORITHM_HLINE_H_INCLUDED
-#pragma once
+
 
 namespace doc {
 

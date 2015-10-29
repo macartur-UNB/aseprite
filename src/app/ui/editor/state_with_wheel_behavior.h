@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_STATE_WITH_WHEEL_BEHAVIOR_H_INCLUDED
 #define APP_UI_STATE_WITH_WHEEL_BEHAVIOR_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/editor/editor_state.h"
 

@@ -7,7 +7,7 @@
 
 #ifndef APP_RES_RESOURCES_LOADER_DELEGATE_H_INCLUDED
 #define APP_RES_RESOURCES_LOADER_DELEGATE_H_INCLUDED
-#pragma once
+
 
 #include <string>
 

@@ -6,7 +6,7 @@
 
 #ifndef BASE_SIGNAL_H_INCLUDED
 #define BASE_SIGNAL_H_INCLUDED
-#pragma once
+
 
 #include "base/connection.h"
 #include "base/remove_from_container.h"

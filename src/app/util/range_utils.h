@@ -7,7 +7,7 @@
 
 #ifndef APP_UTIL_RANGE_UTILS_H_INCLUDED
 #define APP_UTIL_RANGE_UTILS_H_INCLUDED
-#pragma once
+
 
 #include "doc/cel_list.h"
 

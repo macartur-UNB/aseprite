@@ -6,7 +6,7 @@
 
 #ifndef DOC_OBJECT_TYPE_H_INCLUDED
 #define DOC_OBJECT_TYPE_H_INCLUDED
-#pragma once
+
 
 namespace doc {
 

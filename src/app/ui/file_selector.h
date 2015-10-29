@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_FILE_SELECTOR_H_INCLUDED
 #define APP_UI_FILE_SELECTOR_H_INCLUDED
-#pragma once
+
 
 #include "app/file_selector.h"
 #include "base/unique_ptr.h"

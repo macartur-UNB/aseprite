@@ -6,7 +6,7 @@
 
 #ifndef DOC_BRUSH_H_INCLUDED
 #define DOC_BRUSH_H_INCLUDED
-#pragma once
+
 
 #include "doc/brush_pattern.h"
 #include "doc/brush_type.h"

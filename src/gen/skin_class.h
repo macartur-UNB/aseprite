@@ -6,7 +6,7 @@
 
 #ifndef GEN_SKIN_CLASS_H_INCLUDED
 #define GEN_SKIN_CLASS_H_INCLUDED
-#pragma once
+
 
 #include <string>
 #include "tinyxml.h"

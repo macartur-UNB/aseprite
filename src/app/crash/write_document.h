@@ -7,7 +7,7 @@
 
 #ifndef APP_CRASH_WRITE_DOCUMENT_H_INCLUDED
 #define APP_CRASH_WRITE_DOCUMENT_H_INCLUDED
-#pragma once
+
 
 #include <string>
 

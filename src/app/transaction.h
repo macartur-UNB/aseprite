@@ -7,7 +7,7 @@
 
 #ifndef APP_TRANSACTION_H_INCLUDED
 #define APP_TRANSACTION_H_INCLUDED
-#pragma once
+
 
 #include <string>
 

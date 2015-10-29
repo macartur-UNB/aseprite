@@ -6,7 +6,7 @@
 
 #ifndef NET_HTTP_HEADERS_H_INCLUDED
 #define NET_HTTP_HEADERS_H_INCLUDED
-#pragma once
+
 
 #include <map>
 #include <string>

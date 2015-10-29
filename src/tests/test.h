@@ -7,7 +7,7 @@
 
 #ifndef TESTS_TEST_H_INCLUDED
 #define TESTS_TEST_H_INCLUDED
-#pragma once
+
 
 #ifdef HAVE_CONFIG_H
 #include "config.h"

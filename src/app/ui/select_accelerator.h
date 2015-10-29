@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_SELECT_ACCELERATOR_H_INCLUDED
 #define APP_UI_SELECT_ACCELERATOR_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/keyboard_shortcuts.h"
 #include "ui/accelerator.h"

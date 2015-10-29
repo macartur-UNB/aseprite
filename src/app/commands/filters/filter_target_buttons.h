@@ -7,7 +7,7 @@
 
 #ifndef APP_COMMANDS_FILTERS_FILTER_TARGET_BUTTONS_H_INCLUDED
 #define APP_COMMANDS_FILTERS_FILTER_TARGET_BUTTONS_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/button_set.h"
 #include "app/ui/skin/skin_part.h"

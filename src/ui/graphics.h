@@ -6,7 +6,7 @@
 
 #ifndef UI_GRAPHICS_H_INCLUDED
 #define UI_GRAPHICS_H_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 #include "base/shared_ptr.h"

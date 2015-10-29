@@ -6,7 +6,7 @@
 
 #ifndef NET_HTTP_RESPONSE_H_INCLUDED
 #define NET_HTTP_RESPONSE_H_INCLUDED
-#pragma once
+
 
 #include "base/disable_copying.h"
 

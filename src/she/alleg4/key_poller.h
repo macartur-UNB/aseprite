@@ -6,7 +6,7 @@
 
 #ifndef SHE_ALLEG4_KEY_POLLER_H_INCLUDED
 #define SHE_ALLEG4_KEY_POLLER_H_INCLUDED
-#pragma once
+
 
 namespace she {
 

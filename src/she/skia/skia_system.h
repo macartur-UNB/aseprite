@@ -6,7 +6,7 @@
 
 #ifndef SHE_SKIA_SKIA_SYSTEM_INCLUDED
 #define SHE_SKIA_SKIA_SYSTEM_INCLUDED
-#pragma once
+
 
 #include "base/file_handle.h"
 

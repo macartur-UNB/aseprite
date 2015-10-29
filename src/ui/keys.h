@@ -6,7 +6,7 @@
 
 #ifndef UI_KEYS_H_INCLUDED
 #define UI_KEYS_H_INCLUDED
-#pragma once
+
 
 #include "she/keys.h"
 

@@ -6,7 +6,7 @@
 
 #ifndef GEN_UI_CLASS_H_INCLUDED
 #define GEN_UI_CLASS_H_INCLUDED
-#pragma once
+
 
 #include <string>
 #include "tinyxml.h"

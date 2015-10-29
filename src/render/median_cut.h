@@ -6,7 +6,7 @@
 
 #ifndef RENDER_MEDIAN_CUT_H_INCLUDED
 #define RENDER_MEDIAN_CUT_H_INCLUDED
-#pragma once
+
 
 #include "doc/color.h"
 

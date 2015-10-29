@@ -7,7 +7,7 @@
 
 #ifndef APP_PREF_OPTION_H_INCLUDED
 #define APP_PREF_OPTION_H_INCLUDED
-#pragma once
+
 
 #include "base/signal.h"
 #include <string>

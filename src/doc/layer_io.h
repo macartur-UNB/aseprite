@@ -6,7 +6,7 @@
 
 #ifndef DOC_LAYER_IO_H_INCLUDED
 #define DOC_LAYER_IO_H_INCLUDED
-#pragma once
+
 
 #include "base/exception.h"
 

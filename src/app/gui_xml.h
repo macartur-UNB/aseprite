@@ -7,7 +7,7 @@
 
 #ifndef APP_GUI_XML_INCLUDED
 #define APP_GUI_XML_INCLUDED
-#pragma once
+
 
 #include "app/xml_document.h"
 

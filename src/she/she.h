@@ -6,7 +6,7 @@
 
 #ifndef SHE_H_INCLUDED
 #define SHE_H_INCLUDED
-#pragma once
+
 
 #include "she/clipboard.h"
 #include "she/display.h"

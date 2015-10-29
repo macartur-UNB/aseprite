@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_RESOURCES_LISTBOX_H_INCLUDED
 #define APP_UI_RESOURCES_LISTBOX_H_INCLUDED
-#pragma once
+
 
 #include "app/res/resources_loader.h"
 #include "base/unique_ptr.h"

@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_DEVCONSOLE_VIEW_H_INCLUDED
 #define APP_UI_DEVCONSOLE_VIEW_H_INCLUDED
-#pragma once
+
 
 #include "app/scripting/app_scripting.h"
 #include "app/ui/tabs.h"

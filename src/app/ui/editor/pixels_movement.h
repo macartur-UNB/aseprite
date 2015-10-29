@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_EDITOR_PIXELS_MOVEMENT_H_INCLUDED
 #define APP_UI_EDITOR_PIXELS_MOVEMENT_H_INCLUDED
-#pragma once
+
 
 #include "app/context_access.h"
 #include "app/extra_cel.h"

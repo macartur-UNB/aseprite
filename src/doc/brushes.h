@@ -6,7 +6,7 @@
 
 #ifndef DOC_BRUSHES_H_INCLUDED
 #define DOC_BRUSHES_H_INCLUDED
-#pragma once
+
 
 #include "doc/brush.h"
 

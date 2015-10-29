@@ -6,7 +6,7 @@
 
 #ifndef UI_TOOLTIPS_H_INCLUDED
 #define UI_TOOLTIPS_H_INCLUDED
-#pragma once
+
 
 #include "base/unique_ptr.h"
 #include "ui/base.h"

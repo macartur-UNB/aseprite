@@ -7,7 +7,7 @@
 
 #ifndef APP_CONTEXT_H_INCLUDED
 #define APP_CONTEXT_H_INCLUDED
-#pragma once
+
 
 #include "app/commands/params.h"
 #include "app/context_flags.h"

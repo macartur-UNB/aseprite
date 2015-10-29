@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_PREVIEW_EDITOR_H_INCLUDED
 #define APP_UI_PREVIEW_EDITOR_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/document_view.h"
 #include "doc/frame.h"

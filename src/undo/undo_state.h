@@ -6,7 +6,7 @@
 
 #ifndef UNDO_UNDO_STATE_H_INCLUDED
 #define UNDO_UNDO_STATE_H_INCLUDED
-#pragma once
+
 
 #include "undo/undo_command.h"
 

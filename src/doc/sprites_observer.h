@@ -6,7 +6,7 @@
 
 #ifndef DOC_SPRITES_OBSERVER_H_INCLUDED
 #define DOC_SPRITES_OBSERVER_H_INCLUDED
-#pragma once
+
 
 #include "doc/sprite.h"
 

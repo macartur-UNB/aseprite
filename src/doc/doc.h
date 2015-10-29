@@ -6,7 +6,7 @@
 
 #ifndef DOC_DOC_H_INCLUDED
 #define DOC_DOC_H_INCLUDED
-#pragma once
+
 
 #include "doc/blend_funcs.h"
 #include "doc/blend_mode.h"

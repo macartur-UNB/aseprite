@@ -6,7 +6,7 @@
 
 #ifndef DOC_ALGORITHM_RESIZE_IMAGE_H_INCLUDED
 #define DOC_ALGORITHM_RESIZE_IMAGE_H_INCLUDED
-#pragma once
+
 
 #include "doc/color.h"
 #include "gfx/fwd.h"

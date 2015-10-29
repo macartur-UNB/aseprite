@@ -7,7 +7,7 @@
 
 #ifndef APP_UI_EDITOR_MOVING_PIXELS_STATE_H_INCLUDED
 #define APP_UI_EDITOR_MOVING_PIXELS_STATE_H_INCLUDED
-#pragma once
+
 
 #include "app/ui/context_bar_observer.h"
 #include "app/ui/editor/editor_observer.h"

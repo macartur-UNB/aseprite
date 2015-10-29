@@ -7,7 +7,7 @@
 
 #ifndef APP_RES_PALETTE_RESOURCE_H_INCLUDED
 #define APP_RES_PALETTE_RESOURCE_H_INCLUDED
-#pragma once
+
 
 #include "app/res/resource.h"
 

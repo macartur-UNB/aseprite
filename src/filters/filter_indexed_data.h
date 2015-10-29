@@ -7,7 +7,7 @@
 
 #ifndef FILTERS_FILTER_INDEXED_DATA_H_INCLUDED
 #define FILTERS_FILTER_INDEXED_DATA_H_INCLUDED
-#pragma once
+
 
 namespace doc {
   class Palette;

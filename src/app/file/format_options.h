@@ -7,7 +7,7 @@
 
 #ifndef APP_FILE_FORMAT_OPTIONS_H_INCLUDED
 #define APP_FILE_FORMAT_OPTIONS_H_INCLUDED
-#pragma once
+
 
 namespace app {
 

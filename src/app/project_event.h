@@ -7,7 +7,7 @@
 
 #ifndef APP_PROJECT_EVENT_H_INCLUDED
 #define APP_PROJECT_EVENT_H_INCLUDED
-#pragma once
+
 
 namespace app {
   class Document;

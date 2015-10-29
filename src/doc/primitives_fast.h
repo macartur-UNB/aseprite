@@ -6,7 +6,7 @@
 
 #ifndef DOC_PRIMITIVES_FAST_H_INCLUDED
 #define DOC_PRIMITIVES_FAST_H_INCLUDED
-#pragma once
+
 
 #include "doc/color.h"
 
