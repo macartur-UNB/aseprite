@@ -8,7 +8,7 @@
 #ifdef HAVE_CONFIG_H
 #include "config.h"
 #endif
-
+#include <cstdio>
 #include "app/commands/filters/filter_target_buttons.h"
 
 #include "app/modules/gfx.h"

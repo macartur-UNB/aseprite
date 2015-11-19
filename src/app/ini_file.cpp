@@ -10,7 +10,7 @@
 #endif
 
 #include "app/ini_file.h"
-
+#include <cstdio>
 #include "app/resource_finder.h"
 #include "base/split_string.h"
 #include "base/string.h"

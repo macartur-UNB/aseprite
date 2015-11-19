@@ -7,9 +7,9 @@
 #ifdef HAVE_CONFIG_H
 #include "config.h"
 #endif
+#include <cstdio>
 
 #include "doc/sprite.h"
-
 #include "base/memory.h"
 #include "base/remove_from_container.h"
 #include "base/unique_ptr.h"

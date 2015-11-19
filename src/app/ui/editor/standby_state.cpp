@@ -10,7 +10,7 @@
 #endif
 
 #include "app/ui/editor/standby_state.h"
-
+#include <cstdio>
 #include "app/app.h"
 #include "app/color_picker.h"
 #include "app/commands/cmd_eyedropper.h"

@@ -8,7 +8,7 @@
 #ifdef HAVE_CONFIG_H
 #include "config.h"
 #endif
-
+#include <cstdio>
 #include "app/app.h"
 #include "app/color.h"
 #include "app/color_utils.h"

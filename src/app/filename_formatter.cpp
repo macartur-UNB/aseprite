@@ -8,7 +8,7 @@
 #ifdef HAVE_CONFIG_H
 #include "config.h"
 #endif
-
+#include <cstdio>
 #include "app/filename_formatter.h"
 
 #include "base/convert_to.h"
